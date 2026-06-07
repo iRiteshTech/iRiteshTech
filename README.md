@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iRiteshTech&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=iRiteshTech&theme=tokyonight" />
 </p>
 # Hi 👋, I'm Ritesh Raj Tiwary
 
