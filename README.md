@@ -7,12 +7,12 @@ Power BI Developer.
 Computer Science Student passionate about Software Development, Data Analytics, Problem Solving, and Building Real-World Projects.
 
 ## 💻 Current Projects
-- QR Code Generator
-- Examination Portal
-- Backend Development using PHP & MySQL
-- Data Analysis Dashboards using Power BI
-- Power BI Sales Dashboard
-- Data Analysis Portfolio Projects
+QR Code Generator (HTML, CSS, JavaScript)
+Examination Portal (PHP, MySQL)
+Sales Dashboard (Power BI)
+HR Analytics Dashboard (Power BI)
+Data Analytics Portfolio Projects
+Backend Development Project (PHP & MySQL)
 
 ## 🛠 Tech Stack
 <p align="left">
