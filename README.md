@@ -15,10 +15,12 @@ Computer Science Student passionate about Software Development, Data Analytics, 
 - Data Analysis Portfolio Projects
 
 ## 🛠 Tech Stack
-
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,java,python,php,mysql,git,github,vscode,powerbi,sql" />
+<img src="https://skillicons.dev/icons?i=html,css,js,java,python,php,mysql,git,github,vscode" />
 </p>
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 📊 Data Analytics
 - Power BI
