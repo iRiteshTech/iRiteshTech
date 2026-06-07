@@ -3,6 +3,9 @@
 </p>
 
 # Hi 👋, I'm Ritesh Raj Tiwary
+Data Analyst
+Software Developer
+Power BI Developer
 
 ## 🚀 About Me
 Computer Science Student passionate about Software Development, Data Analytics, Problem Solving, and Building Real-World Projects.
