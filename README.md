@@ -9,29 +9,20 @@ Computer Science Student passionate about Software Development, Data Analytics, 
 - Backend Development using PHP & MySQL
 - Data Analysis Dashboards using Power BI
 
-## 🛠 Technical Skills
+## 🛠 Tech Stack
 
-### Programming Languages
-- Java
-- Python
-- JavaScript
-- SQL
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,java,python,php,mysql,git,github,vscode" />
+</p>
 
-### Web Development
-- HTML5
-- CSS3
-- JavaScript
-- PHP
-
-### Database
-- MySQL
-
-### Data Analytics
+### 📊 Data Analytics
 - Power BI
 - Microsoft Excel
+- SQL
+- DAX
+- Power Query
 - Data Visualization
 - Dashboard Development
-- Data Cleaning
 
 ### Tools & Technologies
 - Git
