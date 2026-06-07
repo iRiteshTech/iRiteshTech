@@ -4,6 +4,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=iRiteshTech&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iRiteshTech&show_icons=true&theme=radical" />
+</p>
 
 # Hi 👋, I'm Ritesh Raj Tiwary
 
