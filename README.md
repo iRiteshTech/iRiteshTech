@@ -1,7 +1,5 @@
 # Hi 👋, I'm Ritesh Raj Tiwary
-Data Analyst |
-Software Developer |
-Power BI Developer. 
+Data Analyst | Power BI Developer | Java Developer | Software Developer 
 
 ## 🚀 About Me
 Computer Science Student with a strong interest in Software Development, Data Analytics, and Business Intelligence. Skilled in Power BI, SQL, Java, Python, and Web Development, with hands-on experience building real-world projects and data-driven solutions.
