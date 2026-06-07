@@ -63,4 +63,4 @@ Computer Science Student with a strong interest in Software Development, Data An
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ritesh-tiwary-1b47a1352)
 
 ---
-⭐ Always learning, improving, and building impactful projects.
+⭐ Passionate about building data-driven solutions and impactful software projects.
