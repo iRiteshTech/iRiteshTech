@@ -36,15 +36,12 @@ Computer Science Student with a strong interest in Software Development, Data An
 - Microsoft Office
 
 ## 🌱 Currently Learning
+
 - Advanced Java
 - Data Structures & Algorithms (DSA)
-- Object-Oriented Programming (OOP)
-- Python for Data Analysis
 - Advanced Power BI
 - SQL Optimization
 - REST APIs
-- Backend Development
-- Software Engineering Concepts
 
 ## 🏆 Achievements
 - NDA Conference Out Candidate
