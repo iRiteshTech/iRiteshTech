@@ -17,7 +17,7 @@ Computer Science Student passionate about Software Development, Data Analytics, 
 ## 🛠 Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,java,python,php,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,java,python,php,mysql,git,github,vscode,powerbi,sql" />
 </p>
 
 ### 📊 Data Analytics
