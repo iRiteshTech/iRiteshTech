@@ -4,7 +4,7 @@ Software Developer |
 Power BI Developer. 
 
 ## 🚀 About Me
-Computer Science Student passionate about Software Development, Data Analytics, Problem Solving, and Building Real-World Projects.
+Computer Science Student with a strong interest in Software Development, Data Analytics, and Business Intelligence. Skilled in Power BI, SQL, Java, Python, and Web Development, with hands-on experience building real-world projects and data-driven solutions.
 
 ## 💻 Current Projects
 - QR Code Generator (HTML, CSS, JavaScript)
