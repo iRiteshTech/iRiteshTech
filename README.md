@@ -1,9 +1,6 @@
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Ritesh+Raj+Tiwary;Data+Analyst;Power+BI+Developer;Python+Enthusiast;Software+Developer" />
 </p>
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=iRiteshTech&theme=tokyonight&cache_seconds=3600" />
-</p>
 
 # Hi 👋, I'm Ritesh Raj Tiwary
 
